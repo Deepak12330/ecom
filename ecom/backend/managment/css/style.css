@@ -1,0 +1,26 @@
+.menu
+{
+	text-decoration: none;
+	color:blue;
+	margin-top: 25px;
+
+}
+
+.category-row
+{
+	height:100vh;
+	background-color: purple;
+}
+
+.menu li 
+{
+	padding:5px;
+	text-decoration: none;
+
+}
+
+.menu li:hover 
+{
+	background-color: white;
+	cursor: pointer;
+}
